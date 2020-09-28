@@ -7,7 +7,7 @@
 	  "quantity": "1000 Liters",
 	  "method": "Inox tank with argon gas",
 	  "randomValue": "Zi65fv@!",
-	  "thumbnail" : "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
+	  "thumbnail" : "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/stock.png",
 	  "date":"25/10/2020" 
    },
    "it":{
@@ -17,7 +17,7 @@
       "quantità":"1000 Litri",
       "metodo":"Tini inox a temperatura di 18C° con gas argon.",
       "randomValue": "Zi65fv@!",
-      "thumbnail":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/thumbnails/small_harvest.png",
+      "thumbnail":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/stock.png",
       "date":"25/10/2020"
    }
 }
