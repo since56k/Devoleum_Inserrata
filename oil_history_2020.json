@@ -1,0 +1,14 @@
+{
+   "it":{
+      "name":"Filiera EVOO Inserrata 2020",
+      "description":"Una descrizione da inserire sull'EVOO di Inserrata.",
+      "image":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/logo.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/logo.jpg"
+   },
+   "en":{
+      "name":"Inserrata EVOO Supply Chain 2020",
+      "description":"A description of the Inserrata EVOO",
+      "image":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/logo.jpg",
+      "thumbnail":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/logo.jpg"
+   }
+}
