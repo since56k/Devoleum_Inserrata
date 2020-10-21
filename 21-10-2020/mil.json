@@ -2,21 +2,15 @@
    "multi_lang":true,
    "en":{
       "name": "Oil Mil | Inserrata Harvest 21/10/2020",
-      "description": "Cold mil of the olives in blend through the certified organic line of the San Miniatese oil mill in San Miniato.",
+      "description": "Cold mil of the olives in blend through the certified organic line of the San Miniatese oil mill in San Miniato. Quantity: 600 Kg. Liters: 60 L. Oil Yeld: 10. Acidity: 0.15 ol.%. Peroxides: 5.45 mEO/Kg.",
       "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/mil.jpg",
-      "quantity": "600 Kg",
-      "liters": "60 L",
-      "oil yeld": "10",
-      "acidity": "Acidità 0.15 ol.%",
-      "peroxides": "5.45 mEO/Kg",
-      "method": "Cold mil 24°",
       "randomValue": "Zi65fv@!",
       "thumbnail" : "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_mil.jpg",
       "date":"21/10/2020" 
    },
    "it":{
       "name":"Frangitura | Inserrata Campagna Olivicola 21/10/2020",
-      "description":"Frangitura a freddo delle olive in blend attraverso la linea biologica certificata del frantoio San Miniatese di San Miniato.",
+      "description":"Frangitura a freddo delle olive in blend attraverso la linea biologica certificata del frantoio San Miniatese di San Miniato. Quantità: 600 Kg. Litri: 60 L. Resa: 10. Acidità: 0.15 ol.%. Perossidi: 5.45 mEO/Kg.",
       "image":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/mil.jpg",
       "quantità":"600 Kg",
       "litri":"60 L",
