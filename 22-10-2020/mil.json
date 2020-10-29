@@ -2,12 +2,12 @@
   "multi_lang": true,
   "section": "step",
   "en": {
-    "name": "Oil Mil | Inserrata Harvest 21/10/2020",
+    "name": "Oil Mil | Inserrata Harvest 22/10/2020",
     "description": "Cold mil of the olives in blend through the certified organic line of the San Miniatese oil mill in San Miniato.",
     "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/mil.jpg",
     "randomValue": "Zi65fv@!",
     "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_mil.jpg",
-    "date": "21/10/2020",
+    "date": "22/10/2020",
     "quantity": "900 Kg",
     "liters": "110 L",
     "oil_yeld": "11",
@@ -16,7 +16,7 @@
     "method": "Cold mil 24°"
   },
   "it": {
-    "name": "Frangitura | Inserrata Campagna Olivicola 21/10/2020",
+    "name": "Frangitura | Inserrata Campagna Olivicola 22/10/2020",
     "description": "Frangitura a freddo delle olive in blend attraverso la linea biologica certificata del frantoio San Miniatese di San Miniato.",
     "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/mil.jpg",
     "randomValue": "Zi65fv@!",
