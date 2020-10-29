@@ -1,0 +1,20 @@
+{
+  "multi_lang": true,
+  "section": "history",
+  "en": {
+    "name": "Inserrata Olive Oil Campaign 2020",
+    "description": "The extra virgin olive oil of Inserrata is a 100% Tuscan superior product, which comes from our olive groves located in the hills at 150 meters above sea level, of Frantoiano, Leccino, Moraiolo, Coratina and Pendolino varieties. The olive groves are grown organically. The plants have an age ranging from 15 to 100 years",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/2020.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_2020.jpg",
+    "date": "21/10/2020"
+  },
+  "it": {
+    "name": "Inserrata Campagna Olivicola 2020",
+    "description": "L'olio extravergine d'oliva della Inserrata è un prodotto di categoria superiore 100% Toscano, che proviene dai nostri oliveti situati in collina a 150 metri sul livello del mare, di varietà Frantoiano, Leccino, Moraiolo, Coratina e Pendolino. Gli oliveti sono coltivati con metodo biologico. Le piante hanno un età che va dai 15 a 100 anni",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/2020.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_2020.jpg",
+    "date": "21/10/2020"
+  }
+}
