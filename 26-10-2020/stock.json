@@ -1,0 +1,23 @@
+ {
+   "multi_lang":true,
+   "en":{
+	  "name": "Stock | Inserrata Harvest 2020",
+	  "description": "The EVO oil is stored at Inserrata Organic Farm in San MIniato in a controlled temperature and humidity room of 18 ° C, in stainless steel vats with argon gas for conservation.",
+	  "image": "https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
+	  
+	  "method": "Inox tank with argon gas",
+	  "randomValue": "Zi65fv@!",
+	  "thumbnail" : "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/stock.png",
+	  "date":"25/10/2020" 
+   },
+   "it":{
+      "name":"Stock | Inserrata Campagna Olivicola 2020",
+      "description":"L'olio EVO viene stoccato all'azienda Agricola Inserrata a San MIniato in locale a temperatura ed umidità controllata di 18 C°, in tini di acciaio inox con gas argon per la conservazione.",
+      "image":"https://raw.githubusercontent.com/Devoleum/templates-json/master/steps/imgs/harvest.png",
+     
+      "metodo":"Tini inox a temperatura di 18C° con gas argon.",
+      "randomValue": "Zi65fv@!",
+      "thumbnail":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/stock.png",
+      "date":"25/10/2020"
+   }
+}
