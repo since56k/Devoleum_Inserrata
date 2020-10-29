@@ -1,35 +1,4 @@
-<<<<<<< HEAD
- {
-   "multi_lang":true,
-   "en":{
-      "name": "Harvesting | Inserrata Harvest 21/10/2020",
-      "description": "Harvesting of the olives with the aid of Tornado machine for shaking, method that prevents the oxidation of the olives",
-      "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/harvest.jpg",
-      "quantity":"600 Kg",
-      "elevation": "150 M",
-      "temperautre": "22C°",
-      "umidity": "78%",
-      "type of olive trees": "Moroiolo Lecciono Coratina Mignola Frantoiano Pendolino",
-      "method": "Mechanical",
-      "randomValue": "Zi65fv@!",
-      "thumbnail" : "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_harvest.jpg",
-      "date":"21/10/2020" 
-   },
-   "it":{
-      "name":"Raccolta | Inserrata Campagna Olivicola 21/10/2020",
-      "description":"Raccolta delle olive con l'ausilio della macchina Tornado per la scrollatura, metodo che impedisce l'ossidazione delle olive",
-      "image":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/harvest.jpg",
-      "quantità":"600 Kg",
-      "altezza livello mare": "150 M",
-      "temperatura": "22C°",
-      "umidità": "78%",
-      "tipologia di olivi": "Moroiolo Lecciono Coratina Mignola Frantoiano Pendolino",
-      "metodo":"Scrollatura",
-      "randomValue": "Zi65fv@!",
-      "thumbnail":"https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_harvest.jpg",
-      "date":"21/10/2020"
-   }
-=======
+
 {
   "multi_lang": true,
   "section": "step",
@@ -55,5 +24,4 @@
     "Umidità": "78%",
     "Olive": "Moroiolo Lecciono Coratina Mignola Frantoiano Pendolino"
   }
->>>>>>> ac56a2e7d23525c81f8d82148a8a5cb37872b7a3
 }
