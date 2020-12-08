@@ -1,0 +1,29 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Harvesting | Inserrata Harvest 02/11/2020",
+    "description": "Harvesting of the olives with the aid of Tornado machine for shaking, method that prevents the oxidation of the olives.",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/harvest.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_harvest.jpg",
+    "date": "02/11/2020",
+    "Temperature": "18C°",
+    "Humidity": "80%",
+    "Olives": "Moroiolo Frantoiano Grossolana Mignola"
+  },
+  "it": {
+    "name": "Raccolta | Inserrata Campagna Olivicola 02/11/2020",
+    "description": "Raccolta delle olive con l'ausilio della macchina Tornado per la scrollatura, metodo che impedisce l'ossidazione delle olive.",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/harvest.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_harvest.jpg",
+    "date": "02/11/2020",
+    "Temperatura": "18C°",
+    "Umidità": "80%",
+    "Olive": "Moroiolo Frantoiano Grossolana Mignola"
+  }
+}
+
+
+
