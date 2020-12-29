@@ -1,0 +1,33 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Oil Mill | Inserrata Harvest 23/11/2020",
+    "description": "Cold mill of the olives in blend through the certified organic line of the San Miniatese oil mill in San Miniato.",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/mill.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_mill.jpg",
+    "date": "23/11/2020",
+    "quantity": "360 Kg",
+    "liters": "70 L",
+    "oil_yeld": "11",
+    "acidity": "0.15 ol.%",
+    "peroxides": "5.25 mEO/Kg",
+    "method": "Cold mill 24°"
+  },
+  "it": {
+    "name": "Frangitura | Inserrata Campagna Olivicola 23/11/2020",
+    "description": "Frangitura a freddo delle olive in blend attraverso la linea biologica certificata del frantoio San Miniatese di San Miniato.",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/mill.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/small_mill.jpg",
+    "date": "23/11/2020",
+    "quantità": "360 Kg",
+    "litri": "70 L",
+    "resa": "11",
+    "acidità": "Acidità 0.15 ol.%",
+    "perossidi": "5.25 mEO/Kg",
+    "metodo": "Frangitura a freddo 24°"
+  }
+}
+
