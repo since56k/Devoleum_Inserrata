@@ -1,0 +1,19 @@
+{
+  "multi_lang": true,
+  "section": "history",
+  "en": {
+    "name": "EVO Oil IGP Organic ICEA",
+    "description": "Toscano PGI extra virgin olive oil offers maximum certainty of authenticity. The consortium safeguards each bottle with its signature, by checking the supply chain, which rigorously takes place in Tuscany, from the harvest to the packaging.",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/igp.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/igp.jpg"
+  },
+  "it": {
+    "name": "Olio EVO IGP Biologico ICEA",
+    "description": "L’olio extravergine di oliva Toscano IGP offre la massima certezza in fatto di autenticità. Il Consorzio garantisce ogni bottiglia con la sua firma, verificando tutta la filiera di produzione, rigorosamente realizzata in Toscana, dalla raccolta delle olive al confezionamento.",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/igp.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/igp.jpg"
+  }
+}
+

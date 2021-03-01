@@ -1,0 +1,18 @@
+{
+  "multi_lang": true,
+  "section": "history",
+  "en": {
+    "name": "EVO Oil Organic ICEA",
+    "description": "ICEA certifies agricultural products, processed agri-food products, feed and pet food, aquaculture products, algae and microalgae (spirulina), yeasts. It guarantees the conformity of the productions obtained with organic methods at all stages of the production chain, from the field to the table, in compliance with European Union regulations",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/bio.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/bio.jpg"
+  },
+  "it": {
+    "name": "Olio EVO Biologico ICEA",
+    "description": "ICEA Certifica prodotti agricoli, prodotti agroalimentari trasformati, mangimi e alimenti per animali domestici, prodotti dell'acquacoltura, alghe e microalghe (spirulina), lieviti. Garantisce la conformità delle produzioni ottenute con metodo biologico in tutte le fasi della filiera produttiva, dal campo alla tavola, nel rispetto delle normative dell'Unione Europea",
+    "image": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/bio.jpg",
+    "randomValue": "Zi65fv@!",
+    "thumbnail": "https://raw.githubusercontent.com/Digitalele/Devoleum_Inserrata/master/imgs/bio.jpg"
+  }
+}
